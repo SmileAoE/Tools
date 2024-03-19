@@ -12,4 +12,5 @@ explorer "http://MSGuides.com"&goto halt
 :notsupported
 echo ============================================================================&echo.&echo Sorry! Your version is not supported.
 :halt
+echo Process completed!
 pause >nul
