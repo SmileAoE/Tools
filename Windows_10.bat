@@ -19,4 +19,3 @@ echo ===========================================================================
 :busy
 echo ============================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo.
 :halt
-pause >nul
